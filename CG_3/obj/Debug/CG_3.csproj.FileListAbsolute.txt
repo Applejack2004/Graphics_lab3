@@ -1,0 +1,56 @@
+C:\Users\titanpc\Desktop\CG_3-master\CG_3\bin\Debug\CG_3.exe.config
+C:\Users\titanpc\Desktop\CG_3-master\CG_3\bin\Debug\CG_3.exe
+C:\Users\titanpc\Desktop\CG_3-master\CG_3\bin\Debug\CG_3.pdb
+C:\Users\titanpc\Desktop\CG_3-master\CG_3\bin\Debug\OpenTK.dll
+C:\Users\titanpc\Desktop\CG_3-master\CG_3\bin\Debug\OpenTK.GLControl.dll
+C:\Users\titanpc\Desktop\CG_3-master\CG_3\obj\Debug\CG_3.csproj.AssemblyReference.cache
+C:\Users\titanpc\Desktop\CG_3-master\CG_3\obj\Debug\CG_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\titanpc\Desktop\CG_3-master\CG_3\obj\Debug\CG_3.Form1.resources
+C:\Users\titanpc\Desktop\CG_3-master\CG_3\obj\Debug\CG_3.Properties.Resources.resources
+C:\Users\titanpc\Desktop\CG_3-master\CG_3\obj\Debug\CG_3.csproj.GenerateResource.cache
+C:\Users\titanpc\Desktop\CG_3-master\CG_3\obj\Debug\CG_3.csproj.CoreCompileInputs.cache
+C:\Users\titanpc\Desktop\CG_3-master\CG_3\obj\Debug\CG_3.csproj.CopyComplete
+C:\Users\titanpc\Desktop\CG_3-master\CG_3\obj\Debug\CG_3.exe
+C:\Users\titanpc\Desktop\CG_3-master\CG_3\obj\Debug\CG_3.pdb
+C:\Users\andre\OneDrive\Рабочий стол\CG_3-master\CG_3\bin\Debug\CG_3.exe.config
+C:\Users\andre\OneDrive\Рабочий стол\CG_3-master\CG_3\bin\Debug\CG_3.exe
+C:\Users\andre\OneDrive\Рабочий стол\CG_3-master\CG_3\bin\Debug\CG_3.pdb
+C:\Users\andre\OneDrive\Рабочий стол\CG_3-master\CG_3\bin\Debug\OpenTK.dll
+C:\Users\andre\OneDrive\Рабочий стол\CG_3-master\CG_3\bin\Debug\OpenTK.GLControl.dll
+C:\Users\andre\OneDrive\Рабочий стол\CG_3-master\CG_3\obj\Debug\CG_3.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Рабочий стол\CG_3-master\CG_3\obj\Debug\CG_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\OneDrive\Рабочий стол\CG_3-master\CG_3\obj\Debug\CG_3.Form1.resources
+C:\Users\andre\OneDrive\Рабочий стол\CG_3-master\CG_3\obj\Debug\CG_3.Properties.Resources.resources
+C:\Users\andre\OneDrive\Рабочий стол\CG_3-master\CG_3\obj\Debug\CG_3.csproj.GenerateResource.cache
+C:\Users\andre\OneDrive\Рабочий стол\CG_3-master\CG_3\obj\Debug\CG_3.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Рабочий стол\CG_3-master\CG_3\obj\Debug\CG_3.csproj.CopyComplete
+C:\Users\andre\OneDrive\Рабочий стол\CG_3-master\CG_3\obj\Debug\CG_3.exe
+C:\Users\andre\OneDrive\Рабочий стол\CG_3-master\CG_3\obj\Debug\CG_3.pdb
+C:\Users\andre\source\repos\CG_3-master\CG_3\bin\Debug\CG_3.exe.config
+C:\Users\andre\source\repos\CG_3-master\CG_3\bin\Debug\CG_3.exe
+C:\Users\andre\source\repos\CG_3-master\CG_3\bin\Debug\CG_3.pdb
+C:\Users\andre\source\repos\CG_3-master\CG_3\bin\Debug\OpenTK.dll
+C:\Users\andre\source\repos\CG_3-master\CG_3\bin\Debug\OpenTK.GLControl.dll
+C:\Users\andre\source\repos\CG_3-master\CG_3\obj\Debug\CG_3.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\CG_3-master\CG_3\obj\Debug\CG_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\source\repos\CG_3-master\CG_3\obj\Debug\CG_3.Form1.resources
+C:\Users\andre\source\repos\CG_3-master\CG_3\obj\Debug\CG_3.Properties.Resources.resources
+C:\Users\andre\source\repos\CG_3-master\CG_3\obj\Debug\CG_3.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\CG_3-master\CG_3\obj\Debug\CG_3.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\CG_3-master\CG_3\obj\Debug\CG_3.csproj.CopyComplete
+C:\Users\andre\source\repos\CG_3-master\CG_3\obj\Debug\CG_3.exe
+C:\Users\andre\source\repos\CG_3-master\CG_3\obj\Debug\CG_3.pdb
+C:\Users\olegp\Desktop\CG_3-master\CG_3\bin\Debug\CG_3.exe.config
+C:\Users\olegp\Desktop\CG_3-master\CG_3\bin\Debug\CG_3.exe
+C:\Users\olegp\Desktop\CG_3-master\CG_3\bin\Debug\CG_3.pdb
+C:\Users\olegp\Desktop\CG_3-master\CG_3\bin\Debug\OpenTK.dll
+C:\Users\olegp\Desktop\CG_3-master\CG_3\bin\Debug\OpenTK.GLControl.dll
+C:\Users\olegp\Desktop\CG_3-master\CG_3\obj\Debug\CG_3.csproj.AssemblyReference.cache
+C:\Users\olegp\Desktop\CG_3-master\CG_3\obj\Debug\CG_3.Form1.resources
+C:\Users\olegp\Desktop\CG_3-master\CG_3\obj\Debug\CG_3.Properties.Resources.resources
+C:\Users\olegp\Desktop\CG_3-master\CG_3\obj\Debug\CG_3.csproj.GenerateResource.cache
+C:\Users\olegp\Desktop\CG_3-master\CG_3\obj\Debug\CG_3.csproj.CoreCompileInputs.cache
+C:\Users\olegp\Desktop\CG_3-master\CG_3\obj\Debug\CG_3.csproj.Up2Date
+C:\Users\olegp\Desktop\CG_3-master\CG_3\obj\Debug\CG_3.exe
+C:\Users\olegp\Desktop\CG_3-master\CG_3\obj\Debug\CG_3.pdb
+C:\Users\olegp\Desktop\CG_3-master\CG_3\obj\Debug\CG_3.exe.config
